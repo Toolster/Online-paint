@@ -1,1 +1,3 @@
-# Online-paint
+# Online paint
+Our online Paint has most of the tools you can find in the original application. They are located just above the whiteboard. The main drawing tool is the brush. Its size can be adjusted by the horizontal slider, located in the middle of the toolbar. The color is chosen in the color panel, called by clicking on the box located to the left of the brush. The next tool is eraser. Its size is defined by the same slider as for the brush. Right next to eraser you can find paint bucket. It fills the selected area with the color chosen from the color panel.
+See live: [Online paint](http://toolster.net/online_paint)
